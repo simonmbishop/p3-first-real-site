@@ -1,0 +1,39 @@
+#container {
+	background-color: gray;
+	width: 960px;
+	margin-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+
+	padding: 30px;
+
+	text-align: center;
+}
+
+#container img {
+	width: 960px;
+	margin-bottom: 40px;
+}
+
+
+
+h1 {
+	font-size: 36px;
+	margin-bottom: 20px;
+}
+
+p {
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+
+#container a {
+	color: yellow;
+	background-color: orange;
+}
+
+#container a:hover {
+	background-color: red;
+}
+
+
